@@ -51,7 +51,7 @@ This project was developed for the CSC343H5 database systems course at the Unive
 ## 📸 Screenshots / Demo
 
 ### ERD Snapshot
-![UTM Airline ERD]([https://github.com/your_username/utm-airline/blob/main/erd.png](https://github.com/Dam-Sam/UTM-travel/blob/main/Entity%20Relation%20Diagram.png))
+![UTM Airline ERD](https://github.com/Dam-Sam/UTM-travel/blob/main/Entity%20Relation%20Diagram.png?raw=true)
 
 ---
 
